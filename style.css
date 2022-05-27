@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-size: 18px;
+  font-family: "Outfit", sans-serif;
+}
+.attribution {
+  font-size: 16px;
+  text-align: center;
+  color: white;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.page-image {
+  position: relative;
+}
+.equilibrium-image img {
+  max-width: 100%;
+  display: block;
+  border-radius: 15px;
+}
+.image-overlay {
+  display: none;
+  border-radius: 15px;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.icon-view {
+  position: absolute;
+  left: 45%;
+  top: 45%;
+}
+.heading h1 {
+  font-size: 24px;
+  color: hsl(0, 0%, 100%);
+  display: inline-block;
+}
+.main-container {
+  max-width: 1440px;
+  min-height: 100vh;
+  margin: 0 auto;
+  display: grid;
+  place-items: center;
+}
+.page-content {
+  max-width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: hsl(216, 50%, 16%);
+  padding: 20px;
+  border-radius: 15px;
+}
+.heading {
+  padding-top: 15px;
+  font-weight: 600;
+}
+.paragraph {
+  padding-top: 15px;
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
+}
+.blance {
+  color: hsl(178, 100%, 50%);
+}
+.validity {
+  color: hsl(215, 51%, 70%);
+}
+.blance-validity {
+  padding: 15px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px hsl(215, 32%, 27%) solid;
+}
+.user-image img {
+  width: 35px;
+  height: 35px;
+}
+.user-paragraph {
+  color: hsl(215, 51%, 70%);
+}
+.user-name {
+  color: hsl(0, 0%, 100%);
+}
+.user {
+  padding: 15px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.heading h1:hover,
+.user-name:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
+.page-image:hover .image-overlay {
+  display: block;
+  cursor: pointer;
+  background-color: hsl(178, 100%, 50%, 0.5);
+}
+@media (max-width: 380px) {
+  .main-container {
+    max-width: 330px;
+  }
+}
