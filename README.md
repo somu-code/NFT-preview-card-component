@@ -11,8 +11,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 NFT preview card component
@@ -27,16 +25,14 @@ Users should be able to:
 ### Screenshot
 
 Desktop View
-![](./Screenshots/desktop-view.png)
+![](./screenshots/desktop-view.png)
 Mobile View (width 378px)
-![](./Screenshots/mobile-view.png)
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./screenshots/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-6xAXzFXpxf)
+- Live Site URL: [Add live site URL here](https://nft-preview-card-component-5rx.pages.dev/)
 
 ### Built with
 
@@ -45,11 +41,7 @@ Mobile View (width 378px)
 - Flexbox
 - CSS Grid
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ## Author
 
 - Frontend Mentor - [@somu-code](https://www.frontendmentor.io/profile/somu-code)
 - Twitter - [@GoluiSomnath](https://www.twitter.com/GoluiSomnath)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
