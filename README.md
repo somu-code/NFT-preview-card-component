@@ -44,4 +44,5 @@ Mobile View (width 378px)
 ## Author
 
 - Frontend Mentor - [@somu-code](https://www.frontendmentor.io/profile/somu-code){:target="\_blank" rel="noopener"}
-- Twitter - [@GoluiSomnath](https://www.twitter.com/GoluiSomnath){:target="\_blank" rel="noopener"}
+- Twitter - [@GoluiSomnath]<a href="https://www.twitter.com/GoluiSomnath" target="_blank">TWITTER</a>
+  (https://www.twitter.com/GoluiSomnath){:target="\_blank" rel="noopener"}
