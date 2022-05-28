@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U){:target="\_blank" rel="noopener"}. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,13 +31,8 @@ Mobile View (width 378px)
 
 ### Links
 
-<<<<<<< HEAD
 - Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-6xAXzFXpxf)
 - Live Site URL: [live site URL here](https://nft-preview-card-component-5rx.pages.dev/)
-=======
-- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-6xAXzFXpxf){:target="\_blank" rel="noopener"}
-- Live Site URL: [live site URL here](https://nft-preview-card-component-5rx.pages.dev/){:target="\_blank" rel="noopener"}
->>>>>>> 065a8555c06930bc9eefc8f947c55b160087c052
 
 ### Built with
 
@@ -48,6 +43,5 @@ Mobile View (width 378px)
 
 ## Author
 
-- Frontend Mentor - [@somu-code](https://www.frontendmentor.io/profile/somu-code){:target="\_blank" rel="noopener"}
-- Twitter - [@GoluiSomnath]<a href="https://www.twitter.com/GoluiSomnath" target="_blank">TWITTER</a>
-  (https://www.twitter.com/GoluiSomnath){:target="\_blank" rel="noopener"}
+- Frontend Mentor - [@somu-code](https://www.frontendmentor.io/profile/somu-code)
+- Twitter - [@GoluiSomnath](https://www.twitter.com/GoluiSomnath)
