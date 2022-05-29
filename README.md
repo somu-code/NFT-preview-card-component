@@ -31,8 +31,8 @@ Mobile View (width 378px)
 
 ### Links
 
-- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-6xAXzFXpxf)
-- Live Site URL: [live site URL here](https://nft-preview-card-component-5rx.pages.dev/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-6xAXzFXpxf)
+- Live Site URL: [Live site URL here](https://nft-preview-card-component-5rx.pages.dev/)
 
 ### Built with
 

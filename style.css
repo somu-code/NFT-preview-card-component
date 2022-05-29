@@ -15,7 +15,7 @@ body {
   color: white;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(178, 100%, 50%);
 }
 .page-image {
   position: relative;
@@ -47,7 +47,7 @@ body {
 }
 .main-container {
   max-width: 1440px;
-  min-height: 100vh;
+  min-height: 95vh;
   margin: 0 auto;
   display: grid;
   place-items: center;
